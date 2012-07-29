@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="collection_builders/|collection_stat/|collection_tools/|collection_validators/|file_analyzer/|lib/|plugins/|system/|itunes_analyzer/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/secondstring-20060615.jar"/>
+	<classpathentry kind="lib" path="/Collection Builder Loader"/>
+	<classpathentry kind="lib" path="/Collection Validator Loader"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Generic Framework"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

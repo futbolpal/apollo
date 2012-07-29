@@ -1,0 +1,22 @@
+#Sun Jul 29 17:53:46 EDT 2012
+framework.plugin.tray.show-icon=true
+framework.builder.amazon.validator.locale=UK
+framework.plugin.tray.minimize-to-tray=true
+duplicate-detector.check.field.length_s_=1
+framework.plugin.tray.close-to-tray=true
+framework.window.maximized=true
+duplicate-detector.check.field.year_=1
+duplicate-detector.check.field.location_=1
+duplicate-detector.check.field.format_=1
+duplicate-detector.check.field.track_=1
+duplicate-detector.check.field.playcount_=1
+duplicate-detector.check.field.album_cover_location_=1
+duplicate-detector.check.field.title_=1
+duplicate-detector.check.field.album_=1
+module.cleanup.queue-size=0
+duplicate-detector.check.field.artist_=1
+duplicate-detector.check.field.primarykey_=1
+duplicate-detector.check.field.disc_=1
+framework.plugin.tray.clicks-to-restore=2
+duplicate-detector.check.field.genre_=1
+framework.statistics.basic.show-top=20
